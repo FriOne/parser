@@ -1,0 +1,19 @@
+{
+  "name": "ozon-parser",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "@types/selenium-webdriver": "^4.1.9"
+  },
+  "dependencies": {
+    "chromedriver": "^108.0.0",
+    "selenium-webdriver": "^4.7.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4"
+  }
+}
